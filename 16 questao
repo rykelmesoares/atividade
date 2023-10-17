@@ -1,0 +1,4 @@
+n=float(input('quantos metros quadrados vc vai pintar?:'))
+l= int (n/54)
+p=l* 80
+print('vc vai precisar ter desse tanto de latas,',l,'mas é preciso gastar:',p)
