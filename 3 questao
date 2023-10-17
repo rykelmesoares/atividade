@@ -1,4 +1,4 @@
 n=int(input('digite um numero para ser somado:'))
 n1=int(input('digite o segundo numero:'))
 n2=n+n1
-n3=print('esse é o resutado',n2)
+print('esse é o resutado',n2)
