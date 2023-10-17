@@ -1,0 +1,8 @@
+v=float(input('quanto vc ganha por sofrencia:'))
+v1=float(input('quantas horas vc sofre:'))
+s=v*v1
+r=0.11
+i=0.08
+si=0.05
+sal=salariototal-(r+i+si)
+print("seu salario total é{},e com os desconto fica{}".format(s,sal))
